@@ -1,2 +1,2 @@
 # eduonixPhotoGalery
-Photo galery built by Brad traversy, copied by Dusan Dobranic
+Photo galery built by Brad Traversy, copied by Dusan Dobranic
